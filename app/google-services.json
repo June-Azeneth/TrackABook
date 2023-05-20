@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "73564176566",
+    "firebase_url": "https://librarybooktracker-bea5c-default-rtdb.firebaseio.com",
+    "project_id": "librarybooktracker-bea5c",
+    "storage_bucket": "librarybooktracker-bea5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73564176566:android:b54b3c24492ef9bf74e617",
+        "android_client_info": {
+          "package_name": "com.example.booktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflHXdOY-MjJcuPouFPSHZa6mQ7dWYyhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73564176566:android:845ec91fbf2ad78574e617",
+        "android_client_info": {
+          "package_name": "com.example.librarybooktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflHXdOY-MjJcuPouFPSHZa6mQ7dWYyhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73564176566:android:48a0a2e9a2c023a274e617",
+        "android_client_info": {
+          "package_name": "com.example.trackabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflHXdOY-MjJcuPouFPSHZa6mQ7dWYyhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73564176566-q3028923kj9sffvqvie4o2jgs3bsplsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
